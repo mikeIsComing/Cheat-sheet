@@ -1,0 +1,41 @@
+body {
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: hsla(180, 8%, 75%,0.70);
+    padding: 100px 120px 150px 120px;
+    margin: auto;
+    max-width: fit-content;
+    max-height: fit-content;
+    border: 2px solid #750a75;
+   
+}
+
+table {
+    border: 2px solid #750a75;
+    border-collapse: separate;
+    width: 650px;
+
+}
+
+.elements {
+    background-color: #dcd3d3;
+}
+
+h2{
+    color: #750a75;
+}
+
+thead{
+    background-color:#d274d2;
+}
+
+h1,h2, aside{
+    text-align: center;
+}
+.picture {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    display: relative;
+    margin-left: 40%;
+}
